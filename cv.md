@@ -2,19 +2,19 @@
 
 ## **contact information:**
 
-#### **phone:** +7 999 9999999
-#### **e-mail:** olga@inbox.ru
-#### **telegram:** @olyaprihod
+**phone:** *+7 999 9999999*
+**e-mail:** *olga@inbox.ru*
+**telegram:** *@olyaprihod*
 
 
 ## **about Me:**
 
-### hi! i'm olya. i’m studying to be a front-end developer at the rolling scopes School. 
+*hi! i'm olya. i’m studying to be a front-end developer at the rolling scopes School.*
 
 
 ## **skills:**
 
-### html
+*html*
 
 
 ## **code example:**
@@ -40,17 +40,17 @@
 ```
 
 
-## projects
+## projects:
 
-### projects
+*projects*
 
 
-## **education** 
+## **education:** 
 
-### the national university of science and technology (MISiS)
+*the national university of science and technology (MISiS)*
 
 
 ## **languages:**
 
-### russian
-### english
+*russian*
+*english*
