@@ -39,3 +39,18 @@
 </html> 
 ```
 
+
+## projects
+
+### projects
+
+
+## **education** 
+
+### the national university of science and technology (MISiS)
+
+
+## **languages:**
+
+### russian
+### english
