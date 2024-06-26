@@ -15,3 +15,27 @@
 ## **skills:**
 
 ### html
+
+
+## **code example:**
+
+```
+<html>
+ <head>
+  <title>code</title>
+ </head>
+ <body>
+  <h1>code</h1>
+  <p>code example</p>
+  <ul>
+   <li>one</li>
+   <li>two</li>
+   <li>three</li>
+  </ul> 
+ </body>
+ <footer>
+  <p>2024</p>
+ </footer>
+</html> 
+```
+
