@@ -103,7 +103,36 @@ body {
     padding: 0px 10px;
 }
 
+.photo_row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
+.img {
+    width: 350px;
+    border-radius: 200px;
+    transition: 0.5s;
+    box-shadow: 4px 4px 4px #91DDCF ;
+}
+
+.img:hover {
+    border-radius: 50px;
+    width: 500px; 
+}
+
+.name {
+    font-size: 80px;
+    color: #F19ED2;
+    text-shadow: #91DDCF 2px 3px 4px;
+    transition: 0.5s;
+}
+   
+.name:hover {
+    font-size: 150px;
+    color: #F19ED2;
+    text-shadow: #91DDCF 2px 3px 4px;
+}
 
 
 
